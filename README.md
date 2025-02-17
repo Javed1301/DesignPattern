@@ -1,6 +1,4 @@
-Got it! Here’s your statement reworded beautifully for the README:
 
----
 
 # Design Patterns Implementation
 
