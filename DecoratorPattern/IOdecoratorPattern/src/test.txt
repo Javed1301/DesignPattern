@@ -1,0 +1,1 @@
+Hii I am Javed and i am implementing the decorator pattern for input and ooutput stream. 
